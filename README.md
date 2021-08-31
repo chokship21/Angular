@@ -1,2 +1,2 @@
-# Angular
+# Parth
 Learning Angular
